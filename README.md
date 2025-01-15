@@ -1,2 +1,1 @@
-# bookbot
-Book.dev project: Create a book bot
+BookBot is my first project!
